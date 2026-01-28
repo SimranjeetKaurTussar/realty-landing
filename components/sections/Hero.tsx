@@ -87,20 +87,6 @@ export function Hero() {
                 <div className="absolute inset-0 bg-gradient-to-tr from-white/10 via-transparent to-emerald-200/25" />
               </div>
             </div>
-
-            <Float>
-              <div className="absolute -bottom-6 -left-6 glass rounded-3xl p-4">
-                <div className="text-sm text-slate-600">Starting from</div>
-                <div className="text-xl font-semibold text-slate-900">₹ 98 Lakh</div>
-              </div>
-            </Float>
-
-            <Float>
-              <div className="absolute -top-6 -right-4 glass rounded-3xl p-4">
-                <div className="text-sm text-slate-600">Hot area</div>
-                <div className="text-lg font-semibold text-slate-900">Chandigarh</div>
-              </div>
-            </Float>
           </motion.div>
         </div>
       </div>

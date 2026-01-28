@@ -28,7 +28,6 @@ html {
   scroll-behavior: smooth;
 }
 
-/* Luxury glass helpers */
 .glass {
   background: rgba(255, 255, 255, 0.7);
   border: 1px solid rgba(255, 255, 255, 0.6);
@@ -41,7 +40,6 @@ html {
   border: 1px solid rgba(2, 6, 23, 0.08);
 }
 
-/* Subtle cinematic grain */
 .grain:before {
   content: "";
   position: absolute;
